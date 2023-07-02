@@ -1,0 +1,10 @@
+{
+  "lambda": {
+    "role": "startlift-executor",
+    "name": "startlift",
+    "region": "us-west-1"
+  },
+  "api": {
+    "id": "yooj4m5rk4"
+  }
+}
